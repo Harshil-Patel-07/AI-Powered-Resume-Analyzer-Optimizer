@@ -4,7 +4,7 @@ An intelligent tool that analyzes your resume against job descriptions to help y
 
 ## 🚀 Live Demo
 
-👉 [Try the Live App](https://ai-resume-analyzer-optimizer.streamlit.app/)
+👉 [Try the Live App](https://ai-powered-resume-analyzer-optimizer.streamlit.app/)
 
 ## 🚀 Features
 
@@ -98,3 +98,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## ⭐ Support
 
 If you find this tool helpful, please give it a star on GitHub!
+
